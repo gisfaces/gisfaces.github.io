@@ -1,4 +1,4 @@
-![](https://www.gisfaces.com/wp-content/uploads/GIS-Faces-Logo.svg)
+![](https://www.gisfaces.com/wp-content/uploads/gis-faces-logo.png)
 
 ## Welcome to GISFaces
 [GISFaces](https://www.gisfaces.com)™ is an Enterprise GIS mapping component library for [JavaServer Faces (JSF)](http://www.javaserverfaces.org). The underlying GIS mapping engine used is the [ESRI](https://www.esri.com)® [ArcGIS API For JavaScript](https://developers.arcgis.com/javascript/). Any ArcGIS layer or raw data, local or online, can be used in the maps you build. Best of all, no prior GIS programmer or analyst experience is necessary to start integrating GIS maps into your enterprise applications.
