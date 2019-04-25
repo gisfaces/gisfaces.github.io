@@ -8,7 +8,7 @@
 - Map layer types supported include Bing, CSV, Feature, GeoJSON, GeoRSS, Graphics, Imagery, Integrated Mesh, KML, Map Image, Point Cloud, ArcGIS Portal, Scene, Stream, Tile, Vector Tile, WMS, and WMTS.
 - All layers automatically display the feature attribute table on selection. This popup template is fully customizable from the Java object model.
 - Java event handlers for map interaction include basemap selection, map click, map extent, feature selection, geo-location, graphic editing.
-- The map widgets displayed are search, zoom in/out, pan/orientation, comapss, basemap, layer list, legend, geo-location tracking, full screen, 2d/3d toggle, and coordinate transformations.
+- The map widgets displayed are search, zoom in/out, pan/orientation, compass, basemap, layer list, legend, geo-location tracking, full screen, 2d/3d toggle, and coordinate transformations.
 - Layers are built in Java code using an extensive object model.
 
 ## Examples
