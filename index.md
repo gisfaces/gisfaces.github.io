@@ -4,7 +4,7 @@
 [GISFaces](https://www.gisfaces.com)™ is an Enterprise GIS mapping component library for [JavaServer Faces (JSF)](http://www.javaserverfaces.org). The underlying GIS mapping engine used is the [ESRI](https://www.esri.com)® [ArcGIS API For JavaScript](https://developers.arcgis.com/javascript/). Any ArcGIS layer or raw data, local or online, can be used in the maps you build. Best of all, no prior GIS programmer or analyst experience is necessary to start integrating GIS maps into your enterprise applications.
 
 ## Features
-- Custom components include a map, map symbol image, SVG graphic, and geo-location tracking.
+- Library includes custom components for a map, map symbol image, SVG graphic, and geo-location tracking.
 - 2D and 3D map views available.
 - Map layer types supported include Bing, CSV, Feature, GeoJSON, GeoRSS, Graphics, Imagery, Integrated Mesh, KML, Map Image, Point Cloud, ArcGIS Portal, Scene, Stream, Tile, Vector Tile, WMS, and WMTS.
 - All layers automatically display the feature attribute table on selection. This popup template is fully customizable from the Java object model.
